@@ -1,6 +1,6 @@
 1 Sunday
-2 Monday
-3 Tuesday
+Monday
+Tuesday
 4 Wednesday
 5 Thursday
 6 Friday
